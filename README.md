@@ -30,16 +30,17 @@ JavaScript: Handling image slider and scroll events.
 
 Amazon-clone-main/
 │── assets/     # Contains images and icons
+
 │── index.html  # Main HTML file
+
 │── style.css   # Stylesheet for the project
+
 │── app.js      # JavaScript for interactivity
+
 │── README.md   # Project documentation
 
+
 Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/your-username/amazon-clone.git
 
 Navigate to the project folder:
 
@@ -59,7 +60,8 @@ Scroll horizontally in the product section to view more items.
 
 **screenshot**
 
-![image](https://github.com/user-attachments/assets/642c7907-8948-4e16-bce1-c8ca4dcef769)
+![image](https://github.com/user-attachments/assets/8fc004cd-f834-4249-84f3-a7b6ad7c5632)
+
 
 **Issues & Debugging**
 
