@@ -28,7 +28,8 @@ JavaScript: Handling image slider and scroll events.
 
 **File Structure**
 
-Amazon-clone-main/
+**Amazon-clone-main/**
+
 │── assets/     # Contains images and icons
 
 │── index.html  # Main HTML file
