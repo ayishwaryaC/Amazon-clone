@@ -2,8 +2,8 @@
 
 Amazon Clone is a responsive e-commerce website built using HTML, CSS, and JavaScript. It replicates the basic UI of Amazon with a functional navigation bar, product listings, an image slider, and a shopping cart section.
 
-**Features
-**
+**Features**
+
 Navigation Bar: Includes search functionality, language selection, account options, and cart icon.
 
 Location Update: Displays delivery location.
@@ -26,14 +26,14 @@ CSS: Styling the components.
 
 JavaScript: Handling image slider and scroll events.
 
-**File Structure
-**
+**File Structure**
+
 Amazon-clone-main/
-│── assets/                       # Contains images and icons
-│── index.html                    # Main HTML file
-│── style.css                     # Stylesheet for the project
-│── app.js                        # JavaScript for interactivity
-│── README.md                     # Project documentation
+│── assets/     # Contains images and icons
+│── index.html  # Main HTML file
+│── style.css   # Stylesheet for the project
+│── app.js      # JavaScript for interactivity
+│── README.md   # Project documentation
 
 Installation & Setup
 
@@ -57,8 +57,8 @@ Use the left/right arrows to navigate through the slider.
 
 Scroll horizontally in the product section to view more items.
 
-**screenshot
-**
+**screenshot**
+
 ![image](https://github.com/user-attachments/assets/642c7907-8948-4e16-bce1-c8ca4dcef769)
 
 **Issues & Debugging**
